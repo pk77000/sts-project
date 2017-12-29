@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/prk/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-aop-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-aop-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-aop-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-aspects-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-aspects-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-aspects-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-beans-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-beans-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-beans-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-build-src-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-context-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-context-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-context-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-context-support-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-context-support-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-context-support-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-core-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-core-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-core-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-expression-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-expression-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-expression-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-framework-bom-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-framework-bom-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-framework-bom-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-instrument-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-instrument-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-instrument-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-instrument-tomcat-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-instrument-tomcat-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-instrument-tomcat-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-jdbc-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-jdbc-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-jdbc-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-jms-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-jms-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-jms-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-messaging-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-messaging-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-messaging-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-orm-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-orm-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-orm-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-oxm-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-oxm-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-oxm-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-test-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-test-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-test-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-tx-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-tx-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-tx-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-web-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-web-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-web-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-webmvc-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-webmvc-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-webmvc-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-webmvc-portlet-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-webmvc-portlet-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-webmvc-portlet-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-websocket-4.0.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-websocket-4.0.0.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="D:/prk/lib/spring-websocket-4.0.0.RELEASE-sources.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
